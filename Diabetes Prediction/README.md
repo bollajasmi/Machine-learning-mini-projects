@@ -29,7 +29,7 @@ This project uses a Decision Tree model to predict whether a person has diabetes
 
 ## Result
 
-* Accuracy: XX%
+* Accuracy: 73%
 
 ## Conclusion
 
